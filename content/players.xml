@@ -1,0 +1,12 @@
+<players root="gfx/characters/costumes/"
+         portraitroot="gfx/ui/boss/"
+         nameimageroot="gfx/ui/boss/"
+         bigportraitroot="gfx/ui/stage/">
+
+<player name="Guada" skin="character_001_guada.png" hp="2" canShoot="true" armor="2"
+        items="734" items="733"
+        nameimage="Playername_Guada.png"
+        portrait="Playerportrait_Guada.png"
+        bigportrait="Playerportrait_Guada.png" 
+        />
+</players>

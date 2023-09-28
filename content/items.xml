@@ -1,0 +1,4 @@
+<items gfxroot="gfx/items/" version="1">
+	<active description="Looks grumpy" gfx="collectibles_manchishead.png"  name="Manchi's head" maxcharges="6" chargetype="normal" />
+	<passive id="1" cache="damage firedelay" description="Is it really black?" gfx="collectibles_reishead.png"  name="Rei's head" />
+</items>
